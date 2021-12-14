@@ -23,7 +23,8 @@ W aplikajci mamy możliwość obliczeń taki jak np:
 ![scr4](screenshots/scr4.png)
 
 ## Setup
- W celu uruchomienia aplikacji należy uruchomić plik "TabliceMatematyczne.exe",  
+ W celu uruchomienia aplikacji należy pobrać i wypokować plik "TabliceMatematyczne.rar",  
+ a następnie uruchmić plik "TabliceMatematyczne.exe"  
  lub uruchomić plik "TabliceMatematyczne.sln" i uruchomienie z poziomu programu Visual Studio 2019.
  
 ## Usage
