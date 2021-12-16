@@ -28,5 +28,5 @@ W aplikajci mamy możliwość obliczeń taki jak np:
  lub uruchomić plik "TabliceMatematyczne.sln" i uruchomienie z poziomu programu Visual Studio 2019.
  
 ## Usage
- Program został 
+ Program wspomaga w obliczeniach.
  
